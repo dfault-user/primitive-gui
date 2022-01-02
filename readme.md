@@ -9,7 +9,7 @@ This script most likely runs on Linux too, but I've only tested it on Windows.
 ## **Requirements:**
 - Go > https://golang.org/doc/install
 - Primitive > https://github.com/fogleman/primitive (script is included if you're a super-noob)
-- Python3 > https://www.python.org/downloads/release/python-399/ (Select 64-bit Windows Installer)
+- Python3 > https://www.python.org/downloads/release/python-399/ (Select 64-bit Windows Installer if on Windows.)
 
 ## **How to install/use:**
 - Navigate to the folder in a terminal
