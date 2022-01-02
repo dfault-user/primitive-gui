@@ -16,6 +16,7 @@ This script can most likely, be easily reworked to run on Linux, however I main 
 - To install Primitive, run ```python install-primitive.py```
 - Once primitive is done installing, you may delete the install script.
 - To run the GUI, run ```python main.py```
+- ## **THE APPLICATION WILL APPEAR TO FREEZE, THIS IS NORMAL. LEAVE IT BE UNTIL IT IS FINISHED PROCESSING.**
 
 ## **GUI layout:**
 ![Example of GUI layout](gui.png)
