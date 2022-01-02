@@ -1,11 +1,11 @@
 # **primitive-gui**
 A simple GUI for primitve by fogleman.
 ## **Why was this made?**
-I just wanted a GUI for this command-line tool, and it happens to *not* have a GUI version on Windows.
+I just wanted a GUI for this command-line tool, and it happens to *not* have a GUI version on Windows, or Linux.
 
 *It only has one on macOS.*
 
-This script can most likely, be easily reworked to run on Linux, however I main Windows, so...
+This script most likely runs on Linux too, but I've only tested it on Windows.
 ## **Requirements:**
 - Go > https://golang.org/doc/install
 - Primitive > https://github.com/fogleman/primitive (script is included if you're a super-noob)
