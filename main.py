@@ -16,12 +16,11 @@
 # S = OUTPUT IMAGE SIZE -- HAS TO BE INT
 # THOSE ARE ALL OF THE OPTIONS I'M GOING TO IMPLEMENT, REST WILL USE PRIMITIVE DEFAULTS.
 
-# import OS to run primitive as sys command
-import os
-# import tkinter to construct windows
-import tkinter as tk
+# import mess
+import os # used to execute primitive
+import tkinter as tk # window construction
 
-#init window
+# init window
 window = tk.Tk()
 #change icon
 primIco = tk.PhotoImage(file = 'icon.png')
