@@ -19,7 +19,7 @@
 # import mess
 import os # used to execute primitive
 import tkinter as tk # window construction
-
+import thread # the beginning of the end
 # init window
 window = tk.Tk()
 #change icon
